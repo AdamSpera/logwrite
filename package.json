@@ -1,0 +1,22 @@
+{
+  "name": "logwrite",
+  "version": "1.0.0",
+  "description": "Wirte to a file and print/log in the same function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSpera/logwrite.git"
+  },
+  "author": "Adam T Spera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamSpera/logwrite/issues"
+  },
+  "homepage": "https://github.com/AdamSpera/logwrite#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
